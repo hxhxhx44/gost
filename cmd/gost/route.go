@@ -10,8 +10,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/ginuerzh/gost"
 	"github.com/go-log/log"
+	"github.com/hxhxhx44/gost/v2"
 )
 
 type stringList []string

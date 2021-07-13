@@ -4,7 +4,7 @@ version: '2.11.1'
 title: GO Simple Tunnel
 summary: A simple security tunnel written in golang
 description: |
-  https://github.com/ginuerzh/gost
+  https://github.com/hxhxhx44/gost/v2
 confinement: strict
 grade: stable
 base: core18
@@ -13,7 +13,7 @@ parts:
   gost:
     plugin: nil
     build-snaps: [go/1.13/stable]
-    source: https://github.com/ginuerzh/gost.git
+    source: https://github.com/hxhxhx44/gost/v2.git
     source-subdir: cmd/gost
     source-type: git
     source-branch: '2'

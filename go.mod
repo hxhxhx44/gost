@@ -1,4 +1,4 @@
-module github.com/ginuerzh/gost
+module github.com/hxhxhx44/gost/v2
 
 go 1.13
 

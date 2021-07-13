@@ -3,11 +3,11 @@ gost - GO Simple Tunnel
  
 ### A simple security tunnel written in Golang
 
-[![GoDoc](https://godoc.org/github.com/ginuerzh/gost?status.svg)](https://godoc.org/github.com/ginuerzh/gost)
+[![GoDoc](https://godoc.org/github.com/hxhxhx44/gost/v2?status.svg)](https://godoc.org/github.com/hxhxhx44/gost/v2)
 [![Build Status](https://travis-ci.org/ginuerzh/gost.svg?branch=master)](https://travis-ci.org/ginuerzh/gost)
-[![Go Report Card](https://goreportcard.com/badge/github.com/ginuerzh/gost)](https://goreportcard.com/report/github.com/ginuerzh/gost)
+[![Go Report Card](https://goreportcard.com/badge/github.com/hxhxhx44/gost/v2)](https://goreportcard.com/report/github.com/hxhxhx44/gost/v2)
 [![codecov](https://codecov.io/gh/ginuerzh/gost/branch/master/graphs/badge.svg)](https://codecov.io/gh/ginuerzh/gost/branch/master)
-[![GitHub release](https://img.shields.io/github/release/ginuerzh/gost.svg)](https://github.com/ginuerzh/gost/releases/latest)
+[![GitHub release](https://img.shields.io/github/release/ginuerzh/gost.svg)](https://github.com/hxhxhx44/gost/v2/releases/latest)
 [![Snap Status](https://build.snapcraft.io/badge/ginuerzh/gost.svg)](https://build.snapcraft.io/user/ginuerzh/gost)
 [![Docker Build Status](https://img.shields.io/docker/build/ginuerzh/gost.svg)](https://hub.docker.com/r/ginuerzh/gost/)
 
@@ -41,12 +41,12 @@ Installation
 
 #### Binary files
 
-<https://github.com/ginuerzh/gost/releases>
+<https://github.com/hxhxhx44/gost/v2/releases>
 
 #### From source
 
 ```bash
-git clone https://github.com/ginuerzh/gost.git
+git clone https://github.com/hxhxhx44/gost/v2.git
 cd gost/cmd/gost
 go build
 ```
